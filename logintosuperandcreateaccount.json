@@ -1,0 +1,240 @@
+[
+  {
+    "action": "navigate",
+    "url": "https://pitqa6.palisis.us/pit/bo/login"
+  },
+  {
+    "action": "click",
+    "locator": "[name=\"username\"]"
+  },
+  {
+    "action": "click",
+    "locator": "[name=\"username\"]"
+  },
+  {
+    "action": "click",
+    "locator": "[name=\"username\"]"
+  },
+  {
+    "action": "click",
+    "locator": "[name=\"username\"]"
+  },
+  {
+    "action": "fill",
+    "locator": "[name=\"username\"]",
+    "value": "harshit.solanki@palisis.com"
+  },
+  {
+    "action": "click",
+    "locator": "[name=\"password\"]"
+  },
+  {
+    "action": "fill",
+    "locator": "[name=\"password\"]",
+    "value": "harshit.solanki@palisis.com"
+  },
+  {
+    "action": "click",
+    "locator": "html > body > form > div > div > div:nth-of-type(2) > div > div > div:nth-of-type(8) > button"
+  },
+  {
+    "action": "navigate",
+    "url": "https://pitqa6.palisis.us/pit/v5/index.html?pitApplicationVersion=4.75.1+&pitEnvironment=QA6"
+  },
+  {
+    "action": "navigate",
+    "url": "https://pitqa6.palisis.us/pit/v5/#/Home"
+  },
+  
+  {
+    "action": "click",
+    "locator": "div#adminLayout > div > div > div > app-sidebar > div > div > div > div > img"
+  },
+  {
+    "action": "click",
+    "locator": "div#cs_activities_toggle > div > input"
+  },
+  {
+    "action": "click",
+    "locator": "div#adminLayout > div > div > div > app-sidebar > div > div > div > div > img:nth-of-type(2)"
+  },
+  {
+    "action": "click",
+    "locator": "div#adminLayout > div > div > div > app-sidebar > div > div:nth-of-type(2) > div > div:nth-of-type(9) > a > span:nth-of-type(2)"
+  },
+  {
+    "action": "click",
+    "locator": "div#adminLayout > div > div > div > app-sidebar > div:nth-of-type(2) > div:nth-of-type(2) > div > div > div > a > div > span:nth-of-type(2)"
+  },
+  {
+    "action": "navigate",
+    "url": "https://pitqa6.palisis.us/pit/v5/#/Owner"
+  },
+  {
+    "action": "click",
+    "locator": "div#adminLayout > div > div > div > app-sidebar > div > div > div > div > img"
+  },
+  {
+    "action": "click",
+    "locator": "button#add_new_entity > svg-icon > svg"
+  },
+  {
+    "action": "click",
+    "locator": "#name"
+  },
+  {
+    "action": "fill",
+    "locator": "#name",
+    "value": "Palisis-Kansoft-Auto2"
+  },
+  {
+    "action": "click",
+    "locator": "div#attributes > div:nth-of-type(7) > div > input"
+  },
+  {
+    "action": "fill",
+    "locator": "div#attributes > div:nth-of-type(7) > div > input",
+    "value": "ayush.kumar+auto2@palisis.com"
+  },
+  {
+    "action": "click",
+    "locator": "ul#operation-lines-tabs > li:nth-of-type(2) > a"
+  },
+  {
+    "action": "click",
+    "locator": "div#notifications > div > input"
+  },
+  {
+    "action": "fill",
+    "locator": "div#notifications > div > input",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "div#notifications > div:nth-of-type(3) > input"
+  },
+  {
+    "action": "fill",
+    "locator": "div#notifications > div:nth-of-type(3) > input",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "div#notifications > div:nth-of-type(5) > input"
+  },
+  {
+    "action": "fill",
+    "locator": "div#notifications > div:nth-of-type(5) > input",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "div#notifications > div:nth-of-type(6) > input"
+  },
+  {
+    "action": "fill",
+    "locator": "div#notifications > div:nth-of-type(6) > input",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "div#notifications > div:nth-of-type(7) > input"
+  },
+  {
+    "action": "fill",
+    "locator": "div#notifications > div:nth-of-type(7) > input",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "div#notifications > div:nth-of-type(7) > input"
+  },
+  {
+    "action": "fill",
+    "locator": "div#notifications > div:nth-of-type(7) > input",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "div#notifications > div:nth-of-type(9) > input"
+  },
+  {
+    "action": "fill",
+    "locator": "div#notifications > div:nth-of-type(9) > input",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "div#notifications > div:nth-of-type(10) > input"
+  },
+  {
+    "action": "fill",
+    "locator": "div#notifications > div:nth-of-type(10) > input",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "div#notifications > div:nth-of-type(11) > input"
+  },
+  {
+    "action": "fill",
+    "locator": "div#notifications > div:nth-of-type(11) > input",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "div#notifications > div:nth-of-type(12) > input"
+  },
+  {
+    "action": "fill",
+    "locator": "div#notifications > div:nth-of-type(12) > input",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "div#notifications > div:nth-of-type(13) > input"
+  },
+  {
+    "action": "fill",
+    "locator": "div#notifications > div:nth-of-type(13) > input",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "div#notifications > div:nth-of-type(14) > input"
+  },
+  {
+    "action": "fill",
+    "locator": "div#notifications > div:nth-of-type(14) > input",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "ul#operation-lines-tabs > li:nth-of-type(3) > a"
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Online shop\""
+  },
+  {
+    "action": "click",
+    "locator": "css=select.form-select.font-size-16.fw-400.p-2.ng-untouched.ng-pristine.ng-valid"
+  },
+  {
+    "action": "select",
+    "locator": "css=select.form-select.font-size-16.fw-400.p-2.ng-untouched.ng-pristine.ng-valid",
+    "value": "TEST"
+  },
+  {
+    "action": "click",
+    "locator": "css=select.form-select.font-size-16.fw-400.p-2.ng-untouched.ng-valid.ng-dirty"
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Save\""
+  }
+  {
+    "action": "click",
+    "locator": "html > body > ngb-offcanvas-panel > app-owner-management-modal > div > div > div > div > div > div > div:nth-of-type(3) > div > div > div > button"
+  }
+]

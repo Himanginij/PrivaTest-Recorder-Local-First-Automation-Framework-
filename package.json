@@ -1,0 +1,22 @@
+{
+  "name": "local-automation-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "record" : "npx playwright show-trace playback-recording.zip",
+    "chrome": "start chrome.exe --remote-debugging-port=9222 --user-data-dir=\"C:\\temp\\chrome-debug\"",
+    "start": "node index.js"
+  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "express": "^5.2.1",
+    "playwright-core": "^1.58.2",
+    "socket.io": "^4.8.3"
+  }
+}

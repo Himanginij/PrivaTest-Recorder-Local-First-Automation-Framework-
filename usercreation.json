@@ -1,0 +1,285 @@
+[
+  {
+    "action": "navigate",
+    "url": "https://pitqa6.palisis.us/pit/bo/login"
+  },
+  {
+    "action": "click",
+    "locator": "[name=\"username\"]"
+  },
+  {
+    "action": "fill",
+    "locator": "[name=\"username\"]",
+    "value": "harshit.solanki@palisis.com"
+  },
+  {
+    "action": "click",
+    "locator": "[name=\"username\"]"
+  },
+  {
+    "action": "click",
+    "locator": "[name=\"username\"]"
+  },
+  {
+    "action": "click",
+    "locator": "[name=\"username\"]"
+  },
+  {
+    "action": "click",
+    "locator": "[name=\"password\"]"
+  },
+  {
+    "action": "fill",
+    "locator": "[name=\"password\"]",
+    "value": "harshit.solanki@palisis.com"
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Login\""
+  },
+  {
+    "action": "click",
+    "locator": "css=div.logo-container.flex-column-auto"
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Palisis GWT\""
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Account switch\""
+  },
+  {
+    "action": "click",
+    "locator": "css=img.logo"
+  },
+  {
+    "action": "click",
+    "locator": "css=img.logo.ng-tns-c3195171782-0.ng-trigger.ng-trigger-fadeInOut"
+  },
+  {
+    "action": "click",
+    "locator": "[aria-label='Search Tickets']"
+  },
+  {
+    "action": "fill",
+    "locator": "[aria-label='Search Tickets']",
+    "value": "auto2"
+  },
+  {
+  "action": "click",
+  "locator": "div.card-body:has-text('Palisis-Kansoft-Auto2') >> text=\"switch\""
+  },
+  {
+  "action": "click",
+  "locator": "a:has(svg-icon[src*='search-icon.svg'])"
+  },
+  {
+    "action": "fill",
+    "locator": "[aria-label=\"Search Tickets\"]",
+    "value": "use"
+  },
+  {
+    "action": "click",
+    "locator": "xpath=//html/body/app-root/app-admin-layout/div/div/div/div/app-sidebar/div[3]/ul/li"
+  },
+  {
+    "action": "click",
+    "locator": "css=img.logo"
+  },
+  {
+    "action": "click",
+    "locator": "css=div.card.border-0.p-3.mb-lg-3.text-center.cursor-pointer.cursor-pointer-imp.no-data-found"
+  },
+  {
+    "action": "click",
+    "locator": "[formcontrolname=\"userEmail\"]"
+  },
+  {
+    "action": "fill",
+    "locator": "[formcontrolname=\"userEmail\"]",
+    "value": "ayush.kumar+auto2.2@palisis.com"
+  },
+  {
+    "action": "click",
+    "locator": "[formcontrolname=\"firstName\"]"
+  },
+  {
+    "action": "fill",
+    "locator": "[formcontrolname=\"firstName\"]",
+    "value": "Ayush"
+  },
+  {
+    "action": "click",
+    "locator": "[formcontrolname=\"lastName\"]"
+  },
+  {
+    "action": "fill",
+    "locator": "[formcontrolname=\"lastName\"]",
+    "value": "Kumar"
+  },
+  {
+    "action": "click",
+    "locator": "[formcontrolname=\"pin\"]"
+  },
+  {
+    "action": "fill",
+    "locator": "[formcontrolname=\"pin\"]",
+    "value": "1234"
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Save\""
+  },
+  {
+    "action": "click",
+    "locator": "#ROLE_BACKOFFICE"
+  },
+  {
+    "action": "fill",
+    "locator": "#ROLE_BACKOFFICE",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "#ROLE_SALES"
+  },
+  {
+    "action": "fill",
+    "locator": "#ROLE_SALES",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "#ROLE_BOXOFFICE_ADMIN"
+  },
+  {
+    "action": "fill",
+    "locator": "#ROLE_BOXOFFICE_ADMIN",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Save\""
+  },
+  {
+    "action": "click",
+    "locator": "text=\"check all\""
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Save\""
+  },
+  {
+    "action": "click",
+    "locator": "#PERM_SWITCH_OWNER"
+  },
+  {
+    "action": "fill",
+    "locator": "#PERM_SWITCH_OWNER",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "#PERM_MENU_OWNER_CONTRACT_MANAGEMENT"
+  },
+  {
+    "action": "fill",
+    "locator": "#PERM_MENU_OWNER_CONTRACT_MANAGEMENT",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "#PERM_PREBOOKINGS_PASSENGER_MANIFEST_READONLY"
+  },
+  {
+    "action": "fill",
+    "locator": "#PERM_PREBOOKINGS_PASSENGER_MANIFEST_READONLY",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "#PERM_SWITCH_DESIGNS"
+  },
+  {
+    "action": "fill",
+    "locator": "#PERM_SWITCH_DESIGNS",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "#PERM_MENU_REPORT_SHIFT_INFO"
+  },
+  {
+    "action": "fill",
+    "locator": "#PERM_MENU_REPORT_SHIFT_INFO",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "#PERM_CASH_MANAGEMENT_CLOSE_ALLOWED"
+  },
+  {
+    "action": "fill",
+    "locator": "#PERM_CASH_MANAGEMENT_CLOSE_ALLOWED",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "#PERM_MENU_INVOICING"
+  },
+  {
+    "action": "fill",
+    "locator": "#PERM_MENU_INVOICING",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "#PERM_REFUND_USER_SELECTION_ALLOWED"
+  },
+  {
+    "action": "fill",
+    "locator": "#PERM_REFUND_USER_SELECTION_ALLOWED",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "#PERM_MENU_OWNER_MERCHANT"
+  },
+  {
+    "action": "fill",
+    "locator": "#PERM_MENU_OWNER_MERCHANT",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "#PERM_MENU_MARKETPAY_SETTLEMENTS"
+  },
+  {
+    "action": "fill",
+    "locator": "#PERM_MENU_MARKETPAY_SETTLEMENTS",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "#PERM_BOXOFFICE_MANUAL_PRICINGS"
+  },
+  {
+    "action": "fill",
+    "locator": "#PERM_BOXOFFICE_MANUAL_PRICINGS",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "#PERM_SHOW_ANONYMIZE"
+  },
+  {
+    "action": "fill",
+    "locator": "#PERM_SHOW_ANONYMIZE",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Save\""
+  }
+]

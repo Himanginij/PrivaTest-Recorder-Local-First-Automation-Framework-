@@ -1,0 +1,48 @@
+[
+  {
+  "action": "click",
+  "locator": "tr:has-text('Palisis-Kansoft') >> svg"
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Edit\""
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Change password\""
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Cancel\""
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Change password\""
+  },
+  {
+    "action": "click",
+    "locator": "css=div.cs-alert-title.mb-2"
+  },
+  {
+    "action": "click",
+    "locator": "[formcontrolname=\"userPassword\"]"
+  },
+  {
+    "action": "fill",
+    "locator": "[formcontrolname=\"userPassword\"]",
+    "value": "ayush.kumar+auto2.2@palisis.com"
+  },
+  {
+    "action": "click",
+    "locator": "#forceOverBooking"
+  },
+  {
+    "action": "fill",
+    "locator": "#forceOverBooking",
+    "value": "on"
+  },
+  {
+    "action": "click",
+    "locator": "text=\"Save\""
+  }
+]
